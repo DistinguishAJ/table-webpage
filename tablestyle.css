@@ -1,0 +1,24 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+}
+
+th, td {
+    padding: 5px;
+    border: 1px solid black;
+}
+td{
+    background-color: rgb(247, 245, 245);
+    text-align: center;
+}
+tr{
+    background-color: rgb(249, 234, 242);
+}
+caption{
+    padding: 20px;
+}
